@@ -12,6 +12,10 @@ public class Sales {
  added mopre details
 
 
+added holiday sales
+
+//dealss
+
 
 
 added 30 % off
