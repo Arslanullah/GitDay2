@@ -15,6 +15,8 @@ public class HomePage {
 Logo
 added
 
+footer is added and finish
+
 
 
      */
