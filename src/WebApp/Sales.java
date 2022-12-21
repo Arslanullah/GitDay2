@@ -11,5 +11,8 @@ public class Sales {
     20 % off
 
 
+added 30 % off
+more sales item added
+
      */
 }
