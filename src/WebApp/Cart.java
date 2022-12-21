@@ -10,5 +10,8 @@ public class Cart {
  bananas
  apple
  drink
+
+ added soda
+ added bread
      */
 }
